@@ -1,0 +1,67 @@
+{
+  "seo": {
+    "metaTitle": "Chartered Accountant | Audit, Tax & Advisory",
+    "metaDescription": "Professional CA services: audit, tax, and advisory. Building trust through numbers. ICAI member.",
+    "keywords": "Chartered Accountant, CA, audit, tax, advisory, ICAI",
+    "canonicalUrl": "https://yourdomain.com/",
+    "ogImageUrl": ""
+  },
+  "hero": {
+    "name": "Shobhit Sharma",
+    "designation": "Chartered Accountant",
+    "tagline": "Building trust through numbers",
+    "ctaText": "View services",
+    "ctaHref": "#services",
+    "backgroundImageUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80"
+  },
+  "bio": {
+    "heading": "About",
+    "paragraphs": [
+      "I am a practising Chartered Accountant with a focus on audit, tax, and advisory services for businesses and individuals.",
+      "My approach centres on clarity, compliance, and long-term value for clients."
+    ],
+    "highlights": [
+      "Years of experience in statutory audit and internal audit",
+      "Direct and indirect tax planning and compliance",
+      "Advisory for SMEs and startups"
+    ],
+    
+    "imageUrl": ""
+    
+  },
+  "credentials": {
+    "heading": "Credentials & Affiliations",
+    "items": [
+      { "title": "ICAI", "description": "Member, Institute of Chartered Accountants of India", "year": "2029", "issuer": "ICAI" },
+      { "title": "Certification", "description": "Placeholder certification or award", "year": "", "issuer": "" }
+    ]
+  },
+  "services": {
+    "heading": "Services",
+    "items": [
+      { "title": "Audit", "description": "Statutory audit, internal audit, and assurance services tailored to your organisation.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&q=80" },
+      { "title": "Tax", "description": "Direct and indirect tax planning, compliance, and representation.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400&q=80" },
+      { "title": "Advisory", "description": "Business advisory, structuring, and compliance support for growth.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&q=80" }
+    ]
+  },
+  "serviceArea": {
+    "heading": "Service area",
+    "intro": "I serve clients across the following regions:",
+    "areas": ["Mumbai", "Delhi NCR", "Bengaluru", "Pan-India"]
+  },
+  "testimonials": {
+    "heading": "What clients say",
+    "items": [
+      { "quote": "Professional, thorough, and always responsive. Highly recommend for audit and tax matters.", "author": "Client A", "roleOrContext": "CFO, mid-size company", "outcome": "" },
+      { "quote": "Clear advice and practical solutions. Made our compliance journey smooth.", "author": "Client B", "roleOrContext": "Founder", "outcome": "" }
+    ]
+  },
+  "footer": {
+    "contactLine": "Get in touch for audit, tax, or advisory support.",
+    "email": "contact@example.com",
+    "trustBadges": ["ICAI Member"],
+    "whatsappNumber": "919876543210",
+    "whatsappMessage": "Hi, I'd like to discuss your services.",
+    "whatsappLabel": "Chat on WhatsApp"
+  }
+}
