@@ -1,5 +1,3 @@
-import caImage from '../assets/CAImage.png'
-
 type BioContent = {
   heading: string
   paragraphs: string[]
@@ -8,8 +6,8 @@ type BioContent = {
 }
 
 export function Bio({ content }: { content: BioContent }) {
-  const bioImageUrl = content.imageUrl?.trim() || caImage
-  const showImage = Boolean(content.imageUrl?.trim() || caImage)
+  const bioImageUrl = content.imageUrl?.trim()
+  const showImage = Boolean(content.imageUrl?.trim())
 
   return (
     <section id="bio" className="section-alt" aria-labelledby="bio-heading">

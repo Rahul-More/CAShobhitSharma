@@ -256,7 +256,6 @@ input, textarea {
   box-shadow: var(--shadow-md);
   object-fit: cover;
   object-position: top;
-  aspect-ratio: 1;
 }
 
 .service-card {

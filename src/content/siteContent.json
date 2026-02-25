@@ -3,7 +3,7 @@
     "metaTitle": "Chartered Accountant | Audit, Tax & Advisory",
     "metaDescription": "Professional CA services: audit, tax, and advisory. Building trust through numbers. ICAI member.",
     "keywords": "Chartered Accountant, CA, audit, tax, advisory, ICAI",
-    "canonicalUrl": "https://yourdomain.com/",
+    "canonicalUrl": "https://cashobhitsharma.com/",
     "ogImageUrl": ""
   },
   "hero": {
@@ -25,42 +25,94 @@
       "Direct and indirect tax planning and compliance",
       "Advisory for SMEs and startups"
     ],
-    
-    "imageUrl": ""
-    
+    "imageUrl": "src/assets/CAImage2.png"
   },
   "credentials": {
     "heading": "Credentials & Affiliations",
     "items": [
-      { "title": "ICAI", "description": "Member, Institute of Chartered Accountants of India", "year": "2029", "issuer": "ICAI" },
-      { "title": "Certification", "description": "Placeholder certification or award", "year": "", "issuer": "" }
+      {
+        "title": "ICAI",
+        "description": "Member, Institute of Chartered Accountants of India",
+        "year": "2025",
+        "issuer": "ICAI"
+      },
+      {
+        "title": "ICAI World Forum of Accountants (WOFA) 2.0",
+        "description": "global accounting conference hosted by the ICAI",
+        "year": "2026",
+        "issuer": "ICAI"
+      }
     ]
   },
   "services": {
     "heading": "Services",
     "items": [
-      { "title": "Audit", "description": "Statutory audit, internal audit, and assurance services tailored to your organisation.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&q=80" },
-      { "title": "Tax", "description": "Direct and indirect tax planning, compliance, and representation.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400&q=80" },
-      { "title": "Advisory", "description": "Business advisory, structuring, and compliance support for growth.", "ctaText": "Get in touch", "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&q=80" }
+      {
+        "title": "Audit",
+        "description": "Statutory audit, internal audit, and assurance services tailored to your organisation.",
+        "ctaText": "Get in touch",
+        "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=400&q=80"
+      },
+      {
+        "title": "Tax",
+        "description": "Direct and indirect tax planning, compliance, and representation.",
+        "ctaText": "Get in touch",
+        "imageUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=400&q=80"
+      },
+      {
+        "title": "Advisory",
+        "description": "Business advisory, structuring, and compliance support for growth.",
+        "ctaText": "Get in touch",
+        "imageUrl": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&q=80"
+      },
+      {
+        "title": "Accounting",
+        "description": "Comprehensive bookkeeping, financial reporting, and compliance-driven accounting solutions.",
+        "ctaText": "Get in touch",
+        "imageUrl": "https://www.legalreader.com/wp-content/uploads/2018/10/rawpixel-780494-unsplash.jpg?w=400&q=80"
+      }
     ]
   },
   "serviceArea": {
     "heading": "Service area",
     "intro": "I serve clients across the following regions:",
-    "areas": ["Mumbai", "Delhi NCR", "Bengaluru", "Pan-India"]
+    "areas": [
+      "Mumbai",
+      "Delhi-NCR",
+      "Bengaluru",
+      "Pan-India(On-line)"
+    ]
   },
   "testimonials": {
     "heading": "What clients say",
     "items": [
-      { "quote": "Professional, thorough, and always responsive. Highly recommend for audit and tax matters.", "author": "Client A", "roleOrContext": "CFO, mid-size company", "outcome": "" },
-      { "quote": "Clear advice and practical solutions. Made our compliance journey smooth.", "author": "Client B", "roleOrContext": "Founder", "outcome": "" }
+      {
+        "quote": "Professional, thorough, and always responsive. Highly recommend for audit and tax matters.",
+        "author": "Jai Bala ji",
+        "roleOrContext": "CFO, mid-size company",
+        "outcome": ""
+      },
+      {
+        "quote": "Clear advice and practical solutions and advises. Help to make plan for further Tax saving in future.",
+        "author": "Rahul More",
+        "roleOrContext": "Job Profesional",
+        "outcome": ""
+      },
+      {
+        "quote": "Timely ITR filling with comprehensive knowledge of income tax",
+        "author": "Vaishali Sharma",
+        "roleOrContext": "Job Profesional",
+        "outcome": ""
+      }
     ]
   },
   "footer": {
     "contactLine": "Get in touch for audit, tax, or advisory support.",
-    "email": "contact@example.com",
-    "trustBadges": ["ICAI Member"],
-    "whatsappNumber": "919876543210",
+    "email": "cashobhitsharma25@gmail.com",
+    "trustBadges": [
+      "ICAI Member"
+    ],
+    "whatsappNumber": "919958175337",
     "whatsappMessage": "Hi, I'd like to discuss your services.",
     "whatsappLabel": "Chat on WhatsApp"
   }
