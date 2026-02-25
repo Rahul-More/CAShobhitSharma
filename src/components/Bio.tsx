@@ -1,4 +1,4 @@
-import caImage from '../assets/CAImage.png'
+import caImage from '../assets/CAImage2.png'
 
 type BioContent = {
   heading: string
